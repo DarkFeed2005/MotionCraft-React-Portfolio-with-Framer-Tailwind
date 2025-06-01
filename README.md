@@ -5,7 +5,7 @@ This fully responsive portfolio website, built with React, styled using Tailwind
  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="70" height="70"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="70" height="70"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="70" height="70"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="70" height="70"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://attact.co/_next/image?url=%2Fframer-motion-logo.png&w=1080&q=75" alt="figma" width="90" height="80"/> </a>
 </p>
 
 ## 🔥 Features
