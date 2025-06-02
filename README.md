@@ -31,7 +31,7 @@ This fully responsive portfolio website, built with React, styled using Tailwind
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/DarkFeed2005/portfolio-website.git
 ```
 ```bash
 cd portfolio-website
