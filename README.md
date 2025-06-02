@@ -32,10 +32,14 @@ Clone the repository and install dependencies:
 
 ```sh
 git clone https://github.com/yourusername/portfolio-website.git
-cd portfolio-website
-npm install
 ```
-```sh
+```bash
+cd portfolio-website
+
+
+npm install
+
+
 npm start
 ```
 👨‍💻 Author
